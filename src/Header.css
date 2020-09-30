@@ -1,0 +1,13 @@
+.header-style{
+    font-size: 2.2em;
+    color: white;
+    display: flex;
+    margin: 0;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url("./cognitive-technology-finance.jpg");
+    height: 30vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
